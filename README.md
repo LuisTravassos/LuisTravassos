@@ -6,14 +6,11 @@
 - :speech_balloon: &nbsp;I enjoy discussing topics in **technology** and exploring **innovative solutions**  
 - :mailbox: &nbsp;Feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/luis-travassos)**
 
-<br>
-
 <h2 align="left" id="luistravassos-tech">Favorite Tech</h2>
+
 > Tools, languages, and frameworks I enjoy working with:
 
-<br>
-
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
+<p align="center" style="display: flex; gap:30px; flex-wrap: wrap; justify-content: flex-start;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60" />
   </a>
